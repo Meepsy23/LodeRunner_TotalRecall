@@ -47,7 +47,7 @@ var demoSpeed = 35;
 
 var levelData = defaultLevelData(); //Classic Lode Runner
 
-var curLevel = 1, maxLevel = 1, passedLevel = 0;
+var curLevel = 10, maxLevel = 1, passedLevel = 0;
 var playMode = PLAY_CLASSIC;
 var playData = 1; //classic lode runner
 var curTime = 0; //count from 0 to MAX_TIME_COUNT
